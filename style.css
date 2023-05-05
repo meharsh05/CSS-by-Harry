@@ -1,5 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
-    background-color: #ABC4AA
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/1200px-HelloWorld.svg.png);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat; /* Background repeat property */
 }
 
 #first{
@@ -8,6 +16,16 @@ body{
 }
 
 #second{
-    color: #B04759;
+    color: white;
     font-size: 1.5rem;
+}
+
+.red{
+    background: red;
+    height: 30px;
+    color: white;
+}
+
+.green{
+    background: green;
 }
