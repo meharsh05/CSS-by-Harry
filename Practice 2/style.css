@@ -5,10 +5,23 @@
 
 body{
     background-color: whitesmoke;
+
 }
 
 nav{
     background-color: #A2A378;
     font-size: 20px;
-    
+}
+
+.main{
+    background-color: #F99B7D;
+    height: 40px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
 }
